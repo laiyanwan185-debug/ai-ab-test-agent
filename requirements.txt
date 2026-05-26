@@ -2,5 +2,8 @@ langchain
 langchain-experimental
 langchain-openai
 pandas
+plotly
 python-dotenv
+scipy
+streamlit
 tabulate
